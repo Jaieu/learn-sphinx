@@ -1,15 +1,17 @@
-.. 1 documentation master file, created by
-   sphinx-quickstart on Wed Nov 25 17:11:19 2020.
+.. DAC_Practice documentation master file, created by
+   sphinx-quickstart on Sat Jan  2 14:05:56 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 1's documentation!
-=============================
+Welcome to DAC_Practice's documentation!
+========================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   chapter1.rst
+   chapter2.rst
 
 
 Indices and tables
