@@ -12,6 +12,7 @@ Welcome to DAC_Practice's documentation!
 
    chapter1.rst
    chapter2.rst
+   chapter3.rst
 
 
 Indices and tables
